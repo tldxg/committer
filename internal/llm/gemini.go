@@ -21,7 +21,7 @@ func AskGemini(cfg *config.Config, prompt *models.Prompt) (string, error) {
 		return "", fmt.Errorf("failed to create Gemini client: %w", err)
 	}
 
-	chat, err := client.Chats.Create(ctx, "gemini-2.0-flash", nil, nil)
+	chat, err := client.Chats.Create(ctx, "gemini-2.5-flash", nil, nil)
 	if err != nil {
 		return "", fmt.Errorf("failed to create Gemini chat: %w", err)
 	}
