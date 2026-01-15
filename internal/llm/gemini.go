@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ethn1ee/committer/internal/config"
-	"github.com/ethn1ee/committer/internal/models"
+	"github.com/thdxg/committer/internal/config"
+	"github.com/thdxg/committer/internal/models"
 	"google.golang.org/genai"
 )
 

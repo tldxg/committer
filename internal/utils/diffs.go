@@ -3,7 +3,7 @@ package utils
 import (
 	"fmt"
 
-	"github.com/ethn1ee/committer/internal/models"
+	"github.com/thdxg/committer/internal/models"
 	"github.com/go-git/go-git/v6"
 	"github.com/go-git/go-git/v6/plumbing/object"
 )

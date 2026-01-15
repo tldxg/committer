@@ -6,7 +6,7 @@ package cmd
 import (
 	"os"
 
-	"github.com/ethn1ee/committer/internal/config"
+	"github.com/thdxg/committer/internal/config"
 	"github.com/spf13/cobra"
 )
 

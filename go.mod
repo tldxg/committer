@@ -1,4 +1,4 @@
-module github.com/ethn1ee/committer
+module github.com/thdxg/committer
 
 go 1.25.0
 

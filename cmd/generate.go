@@ -12,9 +12,9 @@ import (
 	"time"
 
 	"github.com/briandowns/spinner"
-	"github.com/ethn1ee/committer/internal/committer"
-	"github.com/ethn1ee/committer/internal/config"
-	"github.com/ethn1ee/committer/internal/utils"
+	"github.com/thdxg/committer/internal/committer"
+	"github.com/thdxg/committer/internal/config"
+	"github.com/thdxg/committer/internal/utils"
 	"github.com/fatih/color"
 	"github.com/manifoldco/promptui"
 	"github.com/spf13/cobra"

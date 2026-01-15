@@ -3,8 +3,8 @@ package llm
 import (
 	"fmt"
 
-	"github.com/ethn1ee/committer/internal/config"
-	"github.com/ethn1ee/committer/internal/models"
+	"github.com/thdxg/committer/internal/config"
+	"github.com/thdxg/committer/internal/models"
 )
 
 func Ask(cfg *config.Config, prompt *models.Prompt) (string, error) {

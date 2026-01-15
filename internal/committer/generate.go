@@ -4,10 +4,10 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/ethn1ee/committer/internal/config"
-	"github.com/ethn1ee/committer/internal/llm"
-	"github.com/ethn1ee/committer/internal/models"
-	"github.com/ethn1ee/committer/internal/utils"
+	"github.com/thdxg/committer/internal/config"
+	"github.com/thdxg/committer/internal/llm"
+	"github.com/thdxg/committer/internal/models"
+	"github.com/thdxg/committer/internal/utils"
 )
 
 func Generate(cfg *config.Config, ctx context.Context) (string, error) {

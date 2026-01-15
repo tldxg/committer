@@ -7,7 +7,7 @@ A simple CLI to generate git commit messages with AI
 ## Installation
 
 ```sh
-brew tap ethn1ee/committer
+brew tap thdxg/committer
 brew install committer
 ```
 
