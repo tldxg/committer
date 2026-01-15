@@ -6,6 +6,11 @@ A simple CLI to generate git commit messages with AI
 
 ## Installation
 
+### Download Binary
+
+Download binary from [releases](https://github.com/ethn1ee/committer/releases). Available for MacOS, Linux, and Windows.
+
+### Homebrew
 ```sh
 brew tap thdxg/committer
 brew install committer
